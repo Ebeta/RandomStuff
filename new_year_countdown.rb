@@ -14,7 +14,7 @@ year_span.times{
 		puts x #output the coutner
 		sleep(1) #delay by a second between each count
 		if x == 0 #when the count hits 0
-			puts "Happy New Year!"
+			puts "Happy New Year Mother Trucker!"
 			sleep(2) #delay by two seconds until starting the countdown again
 			year_span -=1 #move on to the next year
 		end
